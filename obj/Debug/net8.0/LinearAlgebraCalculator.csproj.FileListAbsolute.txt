@@ -1,0 +1,14 @@
+/Users/buraksensoy/dev/c-sharp/LinearAlgebraCalculator/LinearAlgebraCalculator/obj/Debug/net8.0/LinearAlgebraCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buraksensoy/dev/c-sharp/LinearAlgebraCalculator/LinearAlgebraCalculator/obj/Debug/net8.0/LinearAlgebraCalculator.AssemblyInfoInputs.cache
+/Users/buraksensoy/dev/c-sharp/LinearAlgebraCalculator/LinearAlgebraCalculator/obj/Debug/net8.0/LinearAlgebraCalculator.AssemblyInfo.cs
+/Users/buraksensoy/dev/c-sharp/LinearAlgebraCalculator/LinearAlgebraCalculator/obj/Debug/net8.0/LinearAlgebraCalculator.csproj.CoreCompileInputs.cache
+/Users/buraksensoy/dev/c-sharp/LinearAlgebraCalculator/LinearAlgebraCalculator/bin/Debug/net8.0/LinearAlgebraCalculator
+/Users/buraksensoy/dev/c-sharp/LinearAlgebraCalculator/LinearAlgebraCalculator/bin/Debug/net8.0/LinearAlgebraCalculator.deps.json
+/Users/buraksensoy/dev/c-sharp/LinearAlgebraCalculator/LinearAlgebraCalculator/bin/Debug/net8.0/LinearAlgebraCalculator.runtimeconfig.json
+/Users/buraksensoy/dev/c-sharp/LinearAlgebraCalculator/LinearAlgebraCalculator/bin/Debug/net8.0/LinearAlgebraCalculator.dll
+/Users/buraksensoy/dev/c-sharp/LinearAlgebraCalculator/LinearAlgebraCalculator/bin/Debug/net8.0/LinearAlgebraCalculator.pdb
+/Users/buraksensoy/dev/c-sharp/LinearAlgebraCalculator/LinearAlgebraCalculator/obj/Debug/net8.0/LinearAlgebraCalculator.dll
+/Users/buraksensoy/dev/c-sharp/LinearAlgebraCalculator/LinearAlgebraCalculator/obj/Debug/net8.0/refint/LinearAlgebraCalculator.dll
+/Users/buraksensoy/dev/c-sharp/LinearAlgebraCalculator/LinearAlgebraCalculator/obj/Debug/net8.0/LinearAlgebraCalculator.pdb
+/Users/buraksensoy/dev/c-sharp/LinearAlgebraCalculator/LinearAlgebraCalculator/obj/Debug/net8.0/LinearAlgebraCalculator.genruntimeconfig.cache
+/Users/buraksensoy/dev/c-sharp/LinearAlgebraCalculator/LinearAlgebraCalculator/obj/Debug/net8.0/ref/LinearAlgebraCalculator.dll
